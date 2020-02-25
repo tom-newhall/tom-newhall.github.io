@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Tom Newhall - Researcher in Buddhist Studies"
+title                    : "Tom Newhall"
 title_separator          : "-"
 name                     : &name "Tom Newhall"
 description              : &description "PhD Student in the Department of Asian Languages and Cultures at UCLA"
@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Tom Newhall"
-  avatar           : "profile.png"
+  avatar           : "Teaching Hasshu Koyo at Bussei.jpg"
   bio              : "PhD Student in the Department of Asian Languages and Cultures at UCLA"
   location         : "Los Angeles, Ca, USA"
   employer         :
@@ -103,13 +103,13 @@ author:
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         :
-  orcid            : "http://orcid.org/yourorcidurl"
+  orcid            : #"http://orcid.org/yourorcidurl"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "tom-newhall"
+  twitter          : "@tom-newhall"
   vine             :
   weibo            :
   xing             :
